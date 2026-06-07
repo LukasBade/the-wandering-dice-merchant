@@ -1,4 +1,4 @@
-# the-wandering-dicemerchant
+# the-wandering-dice-merchant
 Welcome to my all-around Discord bot for any well prepped and challenging remote DnD-session! 
 
 TODOs:
