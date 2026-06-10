@@ -15,7 +15,7 @@ more features to be announced!
 2. discord.py
 3. python-dotenv
 4. Visit https://docs.discord.com/developers/intro to create developer account
-5. Invite link for this bot: https://discord.com/oauth2/authorize?client_id=1511371792403402853&permissions=2815076453444672&integration_type=0&scope=bot
+5. Invite link for this bot: 
 
 -- Install dependencies --
 1. pip install discord.py
